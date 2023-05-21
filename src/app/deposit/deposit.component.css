@@ -1,0 +1,19 @@
+h3 {
+  color: white;
+}
+
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .button-container button {
+    top: 50%;
+    margin: 10px; 
+    border-radius: 5px;
+    border: 4px solid rgb(172, 208, 254);
+  }
+  
